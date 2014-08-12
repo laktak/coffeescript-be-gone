@@ -1,0 +1,2 @@
+coffeescript-be-gone
+====================
