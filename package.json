@@ -1,7 +1,7 @@
 {
   "name": "coffeescript-be-gone",
   "main": "./lib/coffeescript-be-gone.js",
-  "version": "0.1.0",
+  "version": "0.1.1",
   "description": "No more CoffeeScript code in your favorite editor!",
   "repository": "https://github.com/laktak/coffeescript-be-gone",
   "license": "MIT",
