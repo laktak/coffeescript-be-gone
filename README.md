@@ -2,6 +2,8 @@
 
 No more CoffeeScript code in your favorite editor!
 
+**This package is no longer maintained and looking for a new owner. If you'd like to take over please let me know**
+
 Here’s to the crazy ones, the misfits, the rebels. The trouble makers, the round pegs in the square holes. The ones who see things JavaScriptly.
 
 This package will replace any CoffeeScript with working JavaScript code. Since the file extension is still .coffee we place the code inside backticks so the coffee compiler will just pass it through.
